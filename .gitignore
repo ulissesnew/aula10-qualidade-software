@@ -1,0 +1,11 @@
+# Maven build artifacts
+target/
+
+# Local editor and agent configuration
+.aws/
+.agents/
+.codex/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
